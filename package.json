@@ -1,0 +1,23 @@
+{
+  "name": "git-app",
+  "version": "1.0.0",
+  "description": "mean express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish17apr/git-app.git"
+  },
+  "author": "Manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manish17apr/git-app/issues"
+  },
+  "homepage": "https://github.com/manish17apr/git-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  }
+}
